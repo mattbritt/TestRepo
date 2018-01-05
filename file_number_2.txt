@@ -1,0 +1,2 @@
+This is the second file added to TestRepo to show that git is up an running and 
+that I can make commits.  CS290 is going well thus far!
